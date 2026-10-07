@@ -1,0 +1,7 @@
+{
+  "name": "haze-watch-sg",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Singapore haze (NEA PSI) and ASEAN weather monitor",
+  "engines": { "node": ">=18" }
+}
